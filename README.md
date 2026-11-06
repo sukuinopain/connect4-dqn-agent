@@ -36,4 +36,4 @@ The agent was tested across multiple scenarios:
 
 ## Training Performance
 
-![Training Convergence](training_performance.png)
+![Training Convergence](dqn_training_curve.png)
