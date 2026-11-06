@@ -34,3 +34,6 @@ The agent was tested across multiple scenarios:
 - `play_connect_four.py` : Playable console version inside the terminal.
 - `dqn_connect4.pth` : Saved weights of the trained neural network.
 
+## Training Performance
+
+![Training Convergence](training_performance.png)
